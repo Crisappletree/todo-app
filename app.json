@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Hi there! Here is a fast app I did this afternoon for the things we use to forgot. Yes, you got it. A To Do app.\n\nWith this app you can add Todo's in a simple and intuitive way and delete them once you finished the task ;)\n\nAny doubt or question you might have don't doubt to reach me at: \n\nhttps://www.linkedin.com/in/cristian-manzano/\n\n\nand also Have a nice day! :)",
+    "githubUrl": "https://github.com/Crisappletree/todo-app"
   }
 }
